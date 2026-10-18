@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm Dominic! I am an IT and logistics professional with a BBA in Management from Washburn University and an active CompTIA Security+ certification. Transitioning into cybersecurity, my goal is to secure a SOC Analyst role where I can leverage my background in data compliance, systems auditing, and hands-on home labs—featuring Splunk SIEM, Wireshark, and Linux/Windows endpoints—to effectively detect, investigate, and mitigate security threats.  
 
 <!--
 **dmjohn1031-cyber/dmjohn1031-cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
